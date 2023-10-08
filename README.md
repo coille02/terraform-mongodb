@@ -5,6 +5,7 @@
 <img src="./terraform-mongodb.svg">
 
 ## 디렉토리 구조
+```markdown
 root_module
 │ terragrunt.hcl
 │
@@ -45,7 +46,7 @@ aws_data.hcl
 ec2.hcl
 route53.hcl
 sg.hcl
-
+```
 
 ## 📘 각 디렉토리의 역할
 
